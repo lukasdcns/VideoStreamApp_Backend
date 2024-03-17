@@ -7,6 +7,6 @@
 
 ## Description
 
-FR - Projet réalisé lors de mes études. Il s'agit d'une API permettant d'ajouter et de supprimer des vidéos dans une bibliothèque, avec la possibilité de les lire dans le navigateur.
+FR - Projet réalisé sur mon temps libre pour perfectionner mes compétences avec Nest.js. Il s'agit d'une API permettant d'ajouter et de supprimer des vidéos dans une bibliothèque, avec la possibilité de les lire dans le navigateur.
 
-EN - Project carried out during my studies. It's an API that allows adding and removing videos from a library with the ability to play them in the browser.
+EN - Project developed in my free time to enhance my skills with Nest.js. It's an API allowing the addition and deletion of videos in a library, with the capability to play them in the browser.
